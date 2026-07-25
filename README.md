@@ -18,6 +18,10 @@ Checking for strong correlation and multicollinearity.
 Quick look at the shape of all variables.
 ![Histogram](<Histogram of all vars.png>) 
 
+### BarChart 
+Property Crime Rate Trend (2020/2021 ommited due to Covid Pandemic and FBI Data inconsistencies) 
+![Bar Chart}(<Prop Crime Bar Chart.png>) 
+
 ### Scatterplots 
 Analysis of relationships between key variables 
 
