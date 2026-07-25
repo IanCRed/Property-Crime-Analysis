@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+
+# Large Data Files (Keep your GitHub lightweight)
+*.csv
+*.xlsx
+*.pbix
