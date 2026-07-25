@@ -12,17 +12,20 @@ An statistical analysis of the effect of income inequality and labor market cond
 
 ### Correlation Matrix 
 Checking for strong correlation and multicollinearity. 
-![Correlation Heatmap](Correlation Heatmap.png) 
+![Correlation Heatmap](<Correlation Heatmap.png>) 
 
 ### Variable Distributions 
 Quick look at the shape of all variables.
-![Histogram](Histogram of all vars.png) 
+![Histogram](<Histogram of all vars.png>) 
 
 ### Scatterplots 
 Analysis of relationships between key variables 
-![Income Inequality](Prop Crime vs Gini Scatterplot.png) 
-![Unemployment Rate](Unemployment Rate vs Property Crime Scatterplot.png) 
-![Key Variables Comparison](Pairplot Prop Crime GINI Unemp.png) 
+
+![Income Inequality](<Prop Crime vs Gini Scatterplot.png>) 
+
+![Unemployment Rate](<Unemployment Rate vs Property Crime Scatterplot.png>) 
+
+![Key Variables Comparison](<Pairplot Prop Crime GINI Unemp.png>) 
 
 
 ## Regression Models 
