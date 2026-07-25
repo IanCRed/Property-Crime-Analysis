@@ -2,11 +2,11 @@
 An statistical analysis of the effect of income inequality and labor market conditions on property crime in the United States 
 
 ## Data Pipeline and Methodology 
-* `01_download_data.py` : Loads in the Excel dataset. 
-* `02_clean_data.py` : Handles data formatting and missing values.
-* `03_exploratory_analysis.py` : Conducts initial statistical distributions.
-* `04_regression.py` : Executes the core statistical regression modeling.
-* `05_visualizations.py` : Generates the visuals shown below. 
+* [01_download_data.py](01_download_data.py) : Loads in the Excel dataset. 
+* [02_clean_data.py](02_clean_data.py) : Handles data formatting and missing values.
+* [03_exploratory_analysis.py](03_exploratory_analysis.py) : Conducts initial statistical distributions.
+* [04_regression.py](04_regression.py) : Executes the core statistical regression modeling.
+* [05_visualizations.py](05_visualizations.py): Generates the visuals shown below. 
 
 ## Visualizations 
 
