@@ -47,7 +47,7 @@ Analysis of relationships between key variables
 ![Multiple Linear Model Results](<regoutput/MLR Results.png>)
 
 ### Fixed Effects Regression 
-![Fixed Effects Model Results](<regoutput/FE Model Results.png>)
+![Fixed Effects Model Results](<regoutput/FE Model Results improved code.png>)
 
 
 ## Power BI Dashboard 
