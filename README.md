@@ -1,5 +1,5 @@
 # Property-Crime-Analysis
-An statistical analysis of the effect of income inequality and labor market conditions on property crime in the United States 
+A statistical analysis of the effect of income inequality and labor market conditions on property crime in the United States 
 
 ## Data Pipeline and Methodology 
 * [01_download_data.py](code/01_download_data.py) : Loads in the Excel dataset. 
