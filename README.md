@@ -41,7 +41,13 @@ Analysis of relationships between key variables
 ## Regression Models 
 
 ### Simple Linear Regression 
-![Simple Linear Model Results]
+![Simple Linear Model Results](<Simple OLS Results.png>)
+
+### Multiple Linear Regression 
+![Multiple Linear Model Results](<MLR Results.png>)
+
+### Fixed Effects Regression 
+![Fixed Effects Model Results](<FE Model Results.png>)
 
 
 ## Power BI Dashboard 
