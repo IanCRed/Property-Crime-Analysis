@@ -40,5 +40,9 @@ Analysis of relationships between key variables
 
 ## Regression Models 
 
+### Simple Linear Regression 
+![Simple Linear Model Results]
+
+
 ## Power BI Dashboard 
 (coming soon) 
