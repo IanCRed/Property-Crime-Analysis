@@ -2,11 +2,11 @@
 An statistical analysis of the effect of income inequality and labor market conditions on property crime in the United States 
 
 ## Data Pipeline and Methodology 
-* [01_download_data.py](01_download_data.py) : Loads in the Excel dataset. 
-* [02_clean_data.py](02_clean_data.py) : Handles data formatting and missing values.
-* [03_exploratory_analysis.py](03_exploratory_analysis.py) : Conducts initial statistical distributions.
-* [04_regression.py](04_regression.py) : Executes the core statistical regression modeling.
-* [05_visualizations.py](05_visualizations.py): Generates the visuals shown below. 
+* [01_download_data.py](code/01_download_data.py) : Loads in the Excel dataset. 
+* [02_clean_data.py](code/02_clean_data.py) : Handles data formatting and missing values.
+* [03_exploratory_analysis.py](code/03_exploratory_analysis.py) : Conducts initial statistical distributions.
+* [04_regression.py](code/04_regression.py) : Executes the core statistical regression modeling.
+* [05_visualizations.py](code/05_visualizations.py): Generates the visuals shown below. 
 
 ## Visualizations 
 
@@ -18,36 +18,36 @@ Explore the interactive property crime vs income inequality dashboard here:
 
 ### Correlation Matrix 
 Checking for strong correlation and multicollinearity. 
-![Correlation Heatmap](<Correlation Heatmap.png>) 
+![Correlation Heatmap](<output/Correlation Heatmap.png>) 
 
 ### Variable Distributions 
 Quick look at the shape of all variables.
-![Histogram](<Histogram of all vars.png>) 
+![Histogram](<output/Histogram of all vars.png>) 
 
 ### BarChart 
 Property Crime Rate Trend (2020/2021 ommited due to Covid Pandemic and FBI Data inconsistencies) 
-![Bar Chart](<Prop Crime Bar Chart.png>)
+![Bar Chart](<output/Prop Crime Bar Chart.png>)
 
 ### Scatterplots 
 Analysis of relationships between key variables 
 
-![Income Inequality](<Prop Crime vs Gini Scatterplot.png>) 
+![Income Inequality](<output/Prop Crime vs Gini Scatterplot.png>) 
 
-![Unemployment Rate](<Unemployment Rate vs Property Crime Scatterplot.png>) 
+![Unemployment Rate](<output/Unemployment Rate vs Property Crime Scatterplot.png>) 
 
-![Key Variables Comparison](<Pairplot Prop Crime GINI Unemp.png>) 
+![Key Variables Comparison](<output/Pairplot Prop Crime GINI Unemp.png>) 
 
 
 ## Regression Models 
 
 ### Simple Linear Regression 
-![Simple Linear Model Results](<Simple OLS Results.png>)
+![Simple Linear Model Results](<regoutput/Simple OLS Results.png>)
 
 ### Multiple Linear Regression 
-![Multiple Linear Model Results](<MLR Results.png>)
+![Multiple Linear Model Results](<regoutput/MLR Results.png>)
 
 ### Fixed Effects Regression 
-![Fixed Effects Model Results](<FE Model Results.png>)
+![Fixed Effects Model Results](<regoutput/FE Model Results.png>)
 
 
 ## Power BI Dashboard 
