@@ -13,7 +13,7 @@ An statistical analysis of the effect of income inequality and labor market cond
 ### Interactive Dashboard 
 Explore the interactive property crime vs income inequality dashboard here: 
 
-**https://iancred.github.io/Property-Crime-Analysis/property_crime_II_dashboard.html** 
+[Interactive State Dashboard](https://iancred.github.io/Property-Crime-Analysis/property_crime_II_dashboard.html) 
 
 
 ### Correlation Matrix 
