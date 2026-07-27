@@ -18,7 +18,7 @@ Explore the interactive property crime vs income inequality dashboard here:
 ### Property Crime U.S MAP
 Geographic map illustrating property crime rate levels by state: 
 
-[Choropleth Property Crime Map](https://iancred.github.io/Property-Crime-Analysis/output/Choropleth_Map_PropCrime.html)
+[Choropleth Property Crime Map](https://iancred.github.io/Property-Crime-Analysis/output/Choropleth1_Map_PropCrime.html)
 
 ### Correlation Matrix 
 Checking for strong correlation and multicollinearity. 
